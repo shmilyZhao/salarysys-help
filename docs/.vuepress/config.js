@@ -32,6 +32,13 @@ module.exports = {
                 children: [
                 '/m2/s1',
                 ]
+            },
+            {
+                title: '分组3 后端',
+                collapsable: true,
+                children: [
+                '/m3/s1',
+                ]
             }
             ],
         sidebarDepth: 2,
